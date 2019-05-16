@@ -10,6 +10,10 @@ body {
     color: #777777;
 }
 
+.container {
+    min-height: calc(100vh - 90px);
+}
+
 .content {
     margin-left: auto;
     margin-right: auto;
@@ -23,7 +27,7 @@ body {
     border-bottom: #cccccc 5px solid;
 }
 
-.data {
+.data, .message {
     width: 100%;
 }
 
@@ -48,7 +52,8 @@ h1 {
 }
 
 section {
-    margin-top: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
     background: #ffffff;
     border: #dddddd 1px solid;
     padding: 34px 34px 20px;
@@ -70,12 +75,11 @@ p {
 }
 
 footer {
-    position: absolute;
-    padding-top: 40px;
-    padding-bottom: 5px;
+    height: 60px;
+    padding-top: 30px;
     bottom: 0;
     width: 100%;
-    font-size: 12px;
+    font-size: 10px;
     text-align: center;
     color: #ffffff;
     background: #666666;
