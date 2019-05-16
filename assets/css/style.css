@@ -24,6 +24,7 @@ body {
 
 nav {
     float: right;
+    margin-top: 25px;
 }
 
 h1 {
@@ -44,7 +45,8 @@ h1 {
 section {
     margin-top: 50px;
     background: #ffffff;
-    padding: 35px 35px 0px;
+    border: #dddddd 1px solid;
+    padding: 34px 34px 0px;
 }
 
 #heading {
