@@ -15,13 +15,22 @@ header {
     left: 0;
     top: 0;
     width: 100%;
+    height: 10%;
     background: #ffffff;
     border-bottom: #cccccc 5px solid;
+}
+
+nav {
+    float: right;
 }
 
 h1 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 32px;
+}
+
+section {
+    margin-top: 100px;
 }
 
 img {
