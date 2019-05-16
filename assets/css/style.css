@@ -10,7 +10,8 @@ body {
 }
 
 .content {
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
     width: 960px;
 }
 
@@ -41,6 +42,7 @@ h1 {
 }
 
 section {
+    margin-top: 50px;
     background: #ffffff;
 }
 
