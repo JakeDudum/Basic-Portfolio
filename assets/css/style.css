@@ -16,6 +16,7 @@ header {
     top: 0;
     width: 100%;
     background: #ffffff;
+    border-bottom: #cccccc 5px solid;
 }
 
 h1 {
