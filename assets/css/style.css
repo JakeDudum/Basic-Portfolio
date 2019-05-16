@@ -22,3 +22,8 @@ h1 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 32px;
 }
+
+img {
+    width: 300px;
+    height: 350px;
+}
