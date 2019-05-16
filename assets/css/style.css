@@ -29,6 +29,7 @@ nav {
 h1 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 32px;
+    font-weight: bold;
 }
 
 #name {
@@ -44,6 +45,10 @@ section {
     margin-top: 50px;
     background: #ffffff;
     padding: 35px 35px 0px;
+}
+
+#heading {
+    color: #4aaaa5;
 }
 
 #selfie {
