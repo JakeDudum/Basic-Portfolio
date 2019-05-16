@@ -21,9 +21,6 @@ body {
     border-bottom: #cccccc 5px solid;
 }
 
-header {
-}
-
 nav {
     float: right;
 }
@@ -55,9 +52,11 @@ section {
 
 footer {
     position: absolute;
+    padding-top: 40px;
+    padding-bottom: 5px;
     bottom: 0;
     width: 100%;
     text-align: center;
     background: #666666;
-    border-top: #4aaaa5 5px solid;
+    border-top: #4aaaa5 10px solid;
 }
