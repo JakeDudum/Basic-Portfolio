@@ -7,6 +7,7 @@ body {
     height: 100%;
     margin: 0 auto;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
 }
 
 .content {
@@ -71,6 +72,7 @@ footer {
     bottom: 0;
     width: 100%;
     text-align: center;
+    color: #ffffff;
     background: #666666;
     border-top: #4aaaa5 10px solid;
 }
