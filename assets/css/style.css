@@ -23,6 +23,10 @@ body {
     border-bottom: #cccccc 5px solid;
 }
 
+.data {
+    width: 100%;
+}
+
 nav {
     float: right;
     margin-top: 25px;
