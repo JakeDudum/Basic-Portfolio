@@ -78,12 +78,13 @@ section {
     height: 240px;
     width: 280px;
     position: relative;
-    text-align: center;
     color: #ffffff;
 }
 
 .imgLinkName {
     position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
     bottom: 0;
 }
 
