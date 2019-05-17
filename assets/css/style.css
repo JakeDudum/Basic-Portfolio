@@ -79,6 +79,7 @@ section {
     width: 280px;
     position: relative;
     color: #ffffff;
+    margin-bottom: 50px;
 }
 
 .imgLinkName {
@@ -99,6 +100,7 @@ section {
 
 .alignRight {
     float: right;
+    margin-right: 280px;
 }
 
 .clearfix {
