@@ -131,6 +131,11 @@ section {
     clear: both;
 }
 
+.message {
+    height: 200px;
+    column-span: 100%;
+}
+
 #submit {
     text-align: center;
     display: inline-block;
