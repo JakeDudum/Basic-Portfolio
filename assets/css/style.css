@@ -74,6 +74,19 @@ section {
     line-height: 2;
 }
 
+.imgLink {
+    height: 240px;
+    width: 280px;
+    position: relative;
+    text-align: center;
+    color: #ffffff;
+}
+
+.imgLinkName {
+    position: absolute;
+    bottom: 0;
+}
+
 #submit {
     text-align: center;
     display: inline-block;
