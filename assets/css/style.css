@@ -90,7 +90,19 @@ section {
     text-align: center;
     bottom: 0;
     background: #4aaaa5;
+}
 
+.alignLeft {
+    float: left;
+    clear: left;
+}
+
+.alignRight {
+    float: right;
+}
+
+.clearfix {
+    clear: both;
 }
 
 #submit {
